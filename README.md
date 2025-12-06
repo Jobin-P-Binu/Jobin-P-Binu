@@ -7,5 +7,4 @@ I'm a Btech UnderGraduate Student in MBCCET KUTTIKANAM. I love building things t
 
 
 
-[Linkedin Badge]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/jobin-p-binu-ak473600]
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jobin-p-binu-ak473600)

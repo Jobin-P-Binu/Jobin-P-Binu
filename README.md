@@ -38,10 +38,6 @@ Focusing on modern web technologies, AI integration, and scalable solutions.
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jobin-P-Binu&show_icons=true&theme=dracula&hide_border=true&hide=issues" alt="Jobin's GitHub Stats" />
-  </a>
-  
   <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
     <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Jobin-P-Binu&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>

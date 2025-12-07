@@ -6,17 +6,21 @@
 
 <br/>
 
-<img align="right" alt="Coding GIF" width="250" src="https://media1.tenor.com/m/IieZUsqoYCwAAAAd/developer.gif" />
+<img alt="Coding GIF" width="280" src="https://media1.tenor.com/m/IieZUsqoYCwAAAAd/developer.gif" />
 
+<br/>
+
+<p>
 I'm a passionate developer who loves building things that live on the internet. I blend creativity with technical skills to create impactful digital experiences.
-
+<br/>
 Focusing on modern web technologies, AI integration, and scalable solutions.
+</p>
 
 -----------
 
 ### 🚀 Currently Focusing On
 
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/Prompt%20Engineering-333333?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 <img src="https://img.shields.io/badge/Full%20Stack%20Dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Full Stack" />
@@ -24,7 +28,7 @@ Focusing on modern web technologies, AI integration, and scalable solutions.
 
 ### 💻 My Tech Stack
 
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 </p>
@@ -34,10 +38,10 @@ Focusing on modern web technologies, AI integration, and scalable solutions.
 ### 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=Jobin-P-Binu&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Jobin's GitHub Stats" />
+<a href="https://github.com/Jobin-P-Binu/github-readme-stats">
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=Jobin-P-Binu&show_icons=true&theme=dracula&hide_border=true" alt="Jobin's GitHub Stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Jobin-P-Binu/github-readme-stats">
   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jobin-P-Binu&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </a>
 </p>
